@@ -34,5 +34,3 @@ The Tableau Story presents the dashboard as a story point with a caption, explai
 | `README.md` | Project description and instructions |
 | `Global_Olympic_Sports_Performance_Analysis.twbx` | Packaged Tableau workbook |
 | `screenshots/` | Screenshots of the dashboard and story |
-| `demo-link.txt` | Link to the demo video or published dashboard |
-| `documentation.pdf` | Project report |
